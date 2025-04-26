@@ -1,13 +1,13 @@
 # Agentic GraphRAG demo
 
-![示例]({{ site.url }}/img/2501.png)
-![示例]({{ site.url }}/img/2502.png)
-![示例]({{ site.url }}/img/2503.png)
-![示例]({{ site.url }}/img/2504.png)
-![示例]({{ site.url }}/img/2505.png)
-![示例]({{ site.url }}/img/2506.png)
-![示例]({{ site.url }}/img/2507.png)
-![示例]({{ site.url }}/img/2508.png)
+![示例](img/2501.png)
+![示例](img/2502.png)
+![示例](img/2503.png)
+![示例](img/2504.png)
+![示例](img/2505.png)
+![示例](img/2506.png)
+![示例](img/2507.png)
+![示例](img/2508.png)
 
 # hugegraph-ai
 
